@@ -4,8 +4,3 @@
 - 🌱 I’m currently learning Html, css, javascript, MySql, PHP, .......
 - 💞️ I’m looking to collaborate on Web designing
 - 📫 How to reach me; call or message whatsap (07041533008) or email me on narutoshippudeen124@gmail.com
-
-<!---
-abdulgafarabdurrasheed/abdulgafarabdurrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
